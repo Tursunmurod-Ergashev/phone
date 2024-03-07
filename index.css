@@ -6,7 +6,6 @@
 .container{
     width: 1140px;
     margin: 0 auto;
-    border: 2px solid red;
 }
 ul,li{
     list-style: none;
@@ -342,10 +341,10 @@ letter-spacing: 0px;
             padding-top: 50px;
         }
         .col-png{
-            width: 534px;
+            width: 400px;
             position: absolute;
             top: 40%;
-            left: -10%;
+            left: 0%;
         }
         .col-title{
             width: 407px;
